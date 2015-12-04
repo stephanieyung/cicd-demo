@@ -1,3 +1,6 @@
+[![Circle CI Build Status](https://circleci.com/gh/githubtraining/cicd-demo.svg?style=svg)](https://circleci.com/gh/githubtraining/cicd-demo) [![Travis CIBuild Status](https://travis-ci.org/githubtraining/cicd-demo.svg?branch=master)](https://travis-ci.org/githubtraining/cicd-demo)
+
+
 ### About
 A [Jekyll](http://jekyllrb.com)-powered demo [blog](https://githubtraining-cicd-demo.herokuapp.com). 
 
