@@ -5,3 +5,5 @@ author: Patrick
 date:   2015-05-01
 ---
 Check out [this page](https://github.com/integrations) for an overview.
+
+A [useful link](https://google.com)
