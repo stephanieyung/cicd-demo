@@ -2,7 +2,7 @@
 title: CI and CD with GitHub
 description: A demo blog
 email: training@github.com
-github_username:  githubtraining
+github_username:  githubtrainingggg
 baseurl:
 url: https://githubtraining-cicd-demo.herokuapp.com
 destination: site_content
